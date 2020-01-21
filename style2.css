@@ -1,0 +1,31 @@
+body, h1{
+	 background: url(1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 3rem;
+}
+hr{
+	border-color: #F05F44;
+	border-size: 3px;
+	max-width:65px;
+
+}
+.buffer{
+	height:8rem;
+}
+.btn{
+	border-radius: 300px;
+	font-size: 700px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color: #F05F44;
+}
+.btn-primary:hover{
+	background-color:blue;
+}
+
